@@ -1,13 +1,14 @@
 <p align="center">
-  Web designer with experience. Building layouts with Tailwind CSS + Next.JS.<br>
+  Web designer with experience. Building layouts with Tailwind CSS + Next.JS.<br><br>
   <a href="https://t.me/bioxms">
     <img src="https://skillicons.dev/icons?i=figma,ps,tailwind,nextjs" />
   </a>
 </p>
 
+---
 
 <p align="center">
-  Practicing<br>
+  Practicing<br><br>
   <a href="https://t.me/bioxms">
     <img src="https://skillicons.dev/icons?i=py,kotlin,nextjs" />
   </a>
