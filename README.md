@@ -1,30 +1,7 @@
-<p align="center">
-  Web designer with experience. Building layouts with Tailwind CSS + Next.JS.<br><br>
-  <a href="https://t.me/bioxms">
-    <img src="https://skillicons.dev/icons?i=figma,ps,tailwind,nextjs" />
-  </a>
-</p>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=800&lines=Web+Designer+with+experience%3Bt.me%2Fbioxms&color=8A725B)
 
----
+### Building websites with...
+![Skill icons](https://skillicons.dev/icons?i=figma%2Ctailwind%2Cnext%2Creact&perline=10&theme=dark)
 
-<p align="center">
-  Practicing<br><br>
-  <a href="https://t.me/bioxms">
-    <img src="https://skillicons.dev/icons?i=py,kotlin,nextjs" />
-  </a>
-</p>
-
-<!--
-**changemydm/changemydm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Practicing...
+![Skill icons](https://skillicons.dev/icons?i=py%2Ckotlin%2Cps&perline=10&theme=dark)
