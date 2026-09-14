@@ -1,3 +1,5 @@
+![Banner](https://downgit.github.io/#/home?url=https://github.com/changemydm/changemydm/blob/main/banner.jpg)
+
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=800&lines=Web+Designer+with+experience%3Bt.me%2Fbioxms&color=8A725B)
 
 ### Building websites with...
