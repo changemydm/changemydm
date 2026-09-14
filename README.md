@@ -7,5 +7,3 @@
 
 ### Practicing...
 ![Skill icons](https://skillicons.dev/icons?i=py%2Ckotlin%2Cps&perline=10&theme=dark)
-
----
